@@ -1,11 +1,13 @@
 ---
 title: Why I went back to college
-draft: true
+draft: false
 tags:
   - personal
   - college
   - education
 ---
+*Note: this was originally written ~August 2023.*
+
 Nine years ago, I dropped out of college to join a student retention startup. The irony is not lost on me. Today, I turn 27. I’m telling my story in hopes that someone like me is out there, feeling unsure of themselves, and seeking validation for the path they’re on.
 # Why I dropped out
 

@@ -1,11 +1,11 @@
 ---
 title: A list of people I don't trust
-draft: false
+draft: true
 tags:
   - personal
   - humor
 ---
-* ppl with astigmatism
+* those with astigmatism
 	* edit: I found out after writing this that I have a slight astigmatism. Ouch.
 * Influencers
 * iPad babies

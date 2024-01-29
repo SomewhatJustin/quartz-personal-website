@@ -1,6 +1,6 @@
 ---
 title: AirPods for Your Conscious Experience
-draft: false
+draft: true
 tags:
   - tech
   - philosophy
