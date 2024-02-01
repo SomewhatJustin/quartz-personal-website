@@ -15,4 +15,4 @@ Right now, I'm a college student. After dropping out of college in 2014, I've re
 
 Professionally, I'm a skilled Product person, marketer, analyst, and well... generalist. I've primarily worked in startups, or at least startup-like environments, so I'm used to wearing many hats. "That's not my job" isn't in my lexicon. [Here's my resume](https://drive.google.com/file/d/1RS-FxDn3C6V1n4sYl6-icN7DhFKsXJ0r/view?usp=sharing).
 
-Personally, I have a few interests that I try to post about here, including hiking, cooking, and reading.
+I have a few interests that I try to post about here, including hiking, cooking, and reading.
