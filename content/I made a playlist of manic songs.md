@@ -1,6 +1,6 @@
 ---
 title: I made a playlist of manic songs
-draft: false
+draft: true
 tags:
   - music
   - playlist
