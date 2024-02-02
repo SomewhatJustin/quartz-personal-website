@@ -51,7 +51,7 @@ Or at least, I didn't like what I was doing. I know that many, perhaps most, are
 I'm taking several math courses, many of which I will undoubtedly forget and never use outside of the classroom. That's fine. I'm [proving that I can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things). I'm creating new mental models. I'm expanding my intelligence.
 
 3) I'm finishing what I started. 
-I've quit so many things. This is a big one. I promised my grandma I'd finish college.
+I've quit so many things. This is a big one. I promised my grandma I'd finish college. For me, see [[On Commitment]].
 
 4) I want to be a student.
 When I first attended college, I was undeclared. I was just vibing and the vibes are bad. Having seen much more of the world and gathered a lot of data on what I enjoy working on, I have a much clearer idea of what I want to do, and how my college experience can get me there.
