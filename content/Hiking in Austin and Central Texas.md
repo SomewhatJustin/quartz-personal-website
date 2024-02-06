@@ -2,7 +2,7 @@
 title: Hiking in Austin and Central Texas
 draft: false
 tags:
-  - example-tag
+  - hiking
 ---
 As someone who likes to hike, I'm often asked where my favorite spots are. Assuming you're starting from Austin, here are my favorite spots organized by how far you need to drive:
 
@@ -19,3 +19,7 @@ Not be confused with McKinney Falls! If you find yourself missing pine trees, th
 If you're looking for a State Park equivalent, I would recommend...
 ### Bastrop State Park
 Worth the drive if you enjoy seclusion. You'll see some pines here, cross a creek, and the property itself is fairly large so there's plenty of space to spread out.
+
+## 31-100 Miles
+### Colorado Bend State Park
+If I get a day to myself, this is likely where I'll end up.
