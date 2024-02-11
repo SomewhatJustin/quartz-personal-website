@@ -1,6 +1,6 @@
 ---
 title: On Commitment
-draft: false
+draft: true
 tags:
   - essay
 ---

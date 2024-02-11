@@ -5,8 +5,9 @@ Hello, my name is Justin Fowler. Welcome to my home on the Internet.
 
 > [!tip] Important links
 > 
->-  [[/Writing|Some things I've written]]
 >- [[Projects]] I've had some hand in.
+>- [[My Challenge List]]
+>- [[/Writing|Some things I've written]]
 >- I'm active on [Mastodon](https://mastodon.social/@justinfowler)!
 >- Here's [[Justin Fowler Resume.pdf |my resume]]
 

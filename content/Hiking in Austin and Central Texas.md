@@ -22,4 +22,9 @@ Worth the drive if you enjoy seclusion. You'll see some pines here, cross a cree
 
 ## 31-100 Miles
 ### Colorado Bend State Park
-If I get a day to myself, this is likely where I'll end up.
+If I get a day to myself, this is likely where I'll end up. Colorado Bend is nearly a two hour drive from Austin, but it's well worth the visit.
+
+**Favorite trails:** Cedar Chopper Loop → Dogleg Canyon. Dogleg Canyon is a tiny canyon that you can climb around in.
+![[IMG_9420.jpeg]]
+The park is also rated a 3 on the [Bortle Scale](http://www.bigskyastroclub.org/lp_bortle.html), meaning you'll get a chance to see the Milky Way.
+![[IMG_3753.jpeg]]

@@ -16,7 +16,7 @@ tags:
 - [ ] Startup networking things
 - [ ] Cultural event - museum, arts, plays
 - [ ] Mushroom hike
-- [ ] **Ask someone out** 
+- [ ] Ask someone out
 - [ ] Go to hotel Vegas or go dancing
 
 How can I get the ball rolling on these?
